@@ -1,0 +1,13 @@
+{
+  "item.camg.hilt": "Hilt",
+  "item.camg.cloth": "Cloth",
+  "item.camg.plume": "Plume",
+  "item.camg.woolen_fabric": "Woolen fabric",
+  "item.camg.crocodile_scale": "Crocodile scale",
+
+  "itemGroup.coreitemstab": "Crafting Items",
+  "itemGroup.coreweaponstab": "Realistic Weapons",
+  "itemGroup.coretoolstab": "Realistic Tools",
+  "itemGroup.corearmorstab": "Core's Armors"
+
+}
